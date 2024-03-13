@@ -23,7 +23,7 @@ import javax.swing.JOptionPane;
  *
  * @author Admin
  */
-public class Client extends javax.swing.JFrame {
+public class Client extends javax.swing.JFrame { //hihihihihihihihihihi
 
     private Thread thread;
     private BufferedWriter os;
